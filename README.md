@@ -32,13 +32,13 @@ The goal of this project is about building emotional awareness - making develope
 
 *Why is that important to know?*
 
-On an individual level, identifying emotions will help with emotional regulation. By identifying positive feelings, they can be used as signals for interests. It is also useful for people to identify unwanted feelings. Once they unpack those feelings and figure out the underlaying issues, they can move on and learn how to manage them afterwards. Having this skill will make anyone a more productive and focused person.
+On an individual level, identifying emotions will help with emotional regulation. By identifying positive feelings, those feelings can be used as signals for interests. It is also useful for people to identify unwanted feelings. Once they unpack those feelings and figure out the underlaying issues, they can move on and learn how to manage them afterwards. Having this skill will make anyone a more productive and focused person.
 
 On a communal level, we want to foster a kinder environment. Having the skill to identify and regulate emotions is vital for achieving that. How can someone care about how others feel when do even know or care about his/her own feelings?
 
 To concretely demonstrate everyone's different perception about coding, we need to collect and visual the data to show a clear picture of the emotional state within a coding community.
 
-Finally, this is about making people more open to examine and share their feelings. That is one of the best way to make genuine friends and establish deeper connections with others.
+Finally, this is about making people more open to examine and share their feelings. It is one of the best way to make genuine friends and establish deeper connections with others!
 
 This project started because a discussion happened in [Open Source Studio](https://github.com/Open-Source-Studio-at-ITP) class at [ITP](https://tisch.nyu.edu/itp), NYU.
 
